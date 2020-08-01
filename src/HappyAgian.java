@@ -4,5 +4,8 @@ public class HappyAgian {
         int num = 10;
         System.out.println(num);
 
+        int num2 = 20;
+        System.out.println(num2);
+
     }
 }
