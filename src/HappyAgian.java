@@ -7,5 +7,8 @@ public class HappyAgian {
         int num2 = 20;
         System.out.println(num2);
 
+        String ch = "Sally nice ";
+        System.out.println(ch);
+
     }
 }
